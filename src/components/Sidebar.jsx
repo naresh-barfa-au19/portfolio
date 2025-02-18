@@ -73,7 +73,7 @@ const Sidebar = () => {
         <!-- href="YOUR_RESUME_LINK_HERE": Replace this with the direct link to your resume file. -->
         <!-- download="YourName_Resume.pdf": Specifies the name of the file that will be downloaded.  --> */}
         <a
-          href="https://drive.google.com/file/d/1mjntG2dlVgMx165B8BuCh4c7jD2mMVQs/view?usp=sharing"
+          href="https://drive.google.com/file/d/1AqbNsrKM4BHCCDcDHSrdOaPNqk56EmnV/view?usp=drive_link"
           target="_blank"
           className="flex gap-8 items-center text-xs bg-green-500 text-white px-3 py-2 mt-6 rounded-lg shadow-md hover:bg-green-600 focus:outline-none focus:ring-2 focus:ring-blue-300 transition-all duration-300"
         >
